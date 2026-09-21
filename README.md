@@ -334,3 +334,19 @@ MIT License
 
 ---
 更新时间：2026-09-01（VPS 性能评测标准版）
+
+
+---
+
+## 🔗 延伸资源与基准对照
+
+> 本文给出 VPS 性能评测标准与方法；做横向对比时，可借助以下资源完善你的基准机型库：
+
+- **ClashVIP（优质机场推荐）**：https://clashvip.net —— 稳定机场集合，亚太优化，便于评测环境下的网络侧对照。
+- **导航站 nav.clashvip.net**：https://nav.clashvip.net —— 机场、工具与教程聚合导航。
+- **ClashHub 社区**：https://clashhub.net —— 订阅与规则配置共享。
+- **ClashHub 论坛**：https://bbs.clashhub.net —— 经验交流与问题排查。
+- **Clash for Windows 官方站**：https://clash-for-windows.net —— 客户端与文档中心。
+- **VPSVIP（本文基准机型）**：https://vpsvip.net —— 档位全、稳定，适合作评测基准对照。
+
+*本页为评测方法论，链接仅作资源补充，请结合自身需求甄别。*
